@@ -1,0 +1,4 @@
+*.userprefs
+TestAkka/bin/
+TestAkka/obj/
+packages/
